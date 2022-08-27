@@ -18,6 +18,8 @@ int main()
 
 	cout << test_array_2[0] << endl;
 
+	return 0;
+
 
 }
 
